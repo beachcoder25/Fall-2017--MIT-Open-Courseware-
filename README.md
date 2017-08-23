@@ -1,2 +1,2 @@
-#This shows the similarity between tuple and string manipulation
+	Tuples, Lists, Aliasing, Mutability, Cloning	
 
